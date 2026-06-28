@@ -6,6 +6,9 @@
 
 При разработке особое внимание уделяется доступности интерфейса: крупным элементам управления, высокой контрастности, поддержке скринридеров и удобной навигации с клавиатуры.
 
+<img src="https://github.com/c0derec0de/ability-work/blob/main/src/images/photo_desktop.jpg?raw=true" width="400" height="300" alt="ПК-версия">
+<img src="https://github.com/c0derec0de/ability-work/blob/main/src/images/photo_mobile.jpg?raw=true" width="400" height="300" alt="Мобильная-версия">
+
 ## Для доступности реализовано:
 
 - поддержка навигации с клавиатуры;
